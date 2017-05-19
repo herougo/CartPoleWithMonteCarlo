@@ -1,4 +1,4 @@
-# Cartpole With Monte Carlo
+# Cartpole With Monte Carlo (Unfinished)
 
 Applying an epsilon-greedy Monte Carlo algorithm to the cartpole environment using OpenAIs gym library.
 
